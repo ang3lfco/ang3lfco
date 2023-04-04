@@ -1,4 +1,4 @@
-### Hey! welcome to my profile. 👋
+### Hey! 👋
 
 <!--
 **ang3lfco/ang3lfco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
