@@ -1,5 +1,4 @@
-### Hi there 👋 @ang3lfco
-
+### Hi there 👋
 <!--
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/ang3lfco)
 [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06">](https://leetcode.com/ang3lfco/)
